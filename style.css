@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    color: #333;
+}
+
+.hero h1 {
+    margin-bottom: 10px;
+}
+
+.hero p {
+    margin-bottom: 20px;
+    padding-left: 500;
+}
+
+.skills .badge {
+    font-size: 1rem;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+form input, form textarea {
+    border-radius: 5px;
+}
+
+form button {
+    cursor: pointer;
+}
